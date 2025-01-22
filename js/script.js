@@ -8,7 +8,7 @@ import sushi10 from '../assets/sushi-10.png'
 
 
 import AOS from "aos";
-import "aos/aos.css";
+
 
 AOS.init({
     duration: 1000,
